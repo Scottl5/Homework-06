@@ -1,0 +1,39 @@
+header {
+  background-color: blue;
+  color: white;
+  text-align: center;
+}
+.hidden {
+  display: none;
+}
+
+#current-pic {
+  position: relative;
+  top: -20px;
+}
+
+#day-forecast {
+  width: 100%;
+  border: black solid 5px;
+  padding-right: 10px;
+}
+
+.five-day.col {
+  background-color: rgb(45, 45, 124);
+  color: white;
+  font-weight: bold;
+  margin: 30px 30px 0px 30px;
+  padding-bottom: 25px;
+  width: fit-content;
+}
+
+#city-history {
+  margin: 10px 0;
+}
+.city-buttons {
+  margin: 5px 0;
+}
+
+.city-capital {
+  text-transform: capitalize;
+}
