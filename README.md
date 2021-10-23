@@ -5,4 +5,4 @@ This week's homework required us to make a weather website using the OpenWeather
 ![weatherBegin](https://user-images.githubusercontent.com/86165095/138573901-c73abd51-af13-4a0a-b7dd-d56ecc898063.png)
 ![weatherDashboard](https://user-images.githubusercontent.com/86165095/138573902-38d6a436-1e82-400d-b084-df294b8a8bea.png)
 
-[link to website]()
+[link to website](https://scottl5.github.io/Homework-06/)
